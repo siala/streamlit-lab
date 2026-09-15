@@ -2,8 +2,6 @@
 
 Requires Python 3.13 or newer.
 
-Follow every step in order. Do not skip a step.
-
 ## 1. CHECK PYTHON
 
 **macOS / Linux:** `python3 --version`
